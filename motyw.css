@@ -94,7 +94,7 @@ background-image: url(http://i.imgur.com/sGoqmIv.png) !important;
 bottom: -4px;
 }
 #skillSwitch.first,#skillSwitch.second {
-background-image:url(http://i.imgur.com/U3xj6u1.png);
+background-image:url(http://i.imgur.com/U3xj6u1.png)!important;
 }
 #life2{
   background-image: url(http://i.imgur.com/JxSxx74.png) !important;
