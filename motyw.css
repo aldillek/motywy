@@ -3,7 +3,7 @@
 #gold{line-height: 13px !important;}
 .w2{height: 399px !important;}
 #lagmeter {
-background-image:url(http://i.imgur.com/MzrtNE1.png);
+background-image:url(http://i.imgur.com/MzrtNE1.png)!important;
 width: 16px;
 top: 520px;
 left: 497px;
@@ -16,10 +16,10 @@ text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
 background-image: url('http://i.imgur.com/7XTaLMa.png')!important;
 }
 #volumeSlider .marker,#hdbutton,#shufflebutton,#startbutton {
-background-image:url(http://i.imgur.com/TJfyow0.png);
+background-image:url(http://i.imgur.com/TJfyow0.png)!important;
 }
 #stats {
-background-image: url('http://i.imgur.com/3WkFTB9.png');
+background-image: url('http://i.imgur.com/3WkFTB9.png')!important;
 text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
 }
 #base3 {
@@ -39,42 +39,42 @@ left: 525px;
 }
 #corners img{height: 0 !important; display: inline-block;}
 #corners .border-u {
-background-image:url(http://i.imgur.com/AzSXJDL.png);
+background-image:url(http://i.imgur.com/AzSXJDL.png)!important;
 width:799px;
 padding:7px 0 0;
 }
 #corners .border-d {
-background-image:url(http://i.imgur.com/be0DcwL.png);
+background-image:url(http://i.imgur.com/be0DcwL.png)!important;
 width:799px;
 padding:7px 0 0;
 }
 #corners .border-r {
-background-image:url(http://i.imgur.com/DNDglCI.png);
+background-image:url(http://i.imgur.com/DNDglCI.png)!important;
 width:7px;
 padding:537px 0 0;
 margin-left: -1px;
 }
 #corners .border-l {
-background-image:url(http://i.imgur.com/8APU8kb.png);
+background-image:url(http://i.imgur.com/8APU8kb.png)!important;
 background-repeat: no-repeat;
 width:7px;
 padding:537px 0 0;
 }
 #bottombar {
-background-image:url(http://i.imgur.com/N6ROLzW.png);
+background-image:url(http://i.imgur.com/N6ROLzW.png)!important;
 }
 #pvpmode {
 height: 16px;
 width: 29px;
 margin-top: 3px;
 left: -2px;
-background-image:url(http://i.imgur.com/Px1Ug8E.png);
+background-image:url(http://i.imgur.com/Px1Ug8E.png)!important;
 }
 #buttons div,#helpbut,#logoutbut,#bchat {
-background-image:url(http://i.imgur.com/OqolwPW.png);
+background-image:url(http://i.imgur.com/OqolwPW.png)!important;
 }
 #premiumbut {
-background-image:url(http://i.imgur.com/93lnjoI.png);
+background-image:url(http://i.imgur.com/93lnjoI.png)!important;
 }
 #lastmsg {
 left: 4px;
@@ -129,7 +129,7 @@ background-image:url(http://i.imgur.com/U3xj6u1.png);
 }
 /*HANDEL*/
 #tradebg,#tradeaccept,#tradeaccept2,#tradecancel {
-background-image:url(http://i.imgur.com/BPKlHrM.png);
+background-image:url(http://i.imgur.com/BPKlHrM.png)!important;
 background-color: transparent;
 color: #FFF;
 text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
@@ -138,18 +138,18 @@ text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
 /*CHAT*/
 
 #chat.left,#chat.left #chattabs s {
-background-image:url(http://i.imgur.com/54bSXIh.png);
+background-image:url(http://i.imgur.com/54bSXIh.png)!important;
 margin:0;
 }
 
 #chat #chattabs S,#chat {
-background-image:url(http://i.imgur.com/gNC4JKe.png);
+background-image:url(http://i.imgur.com/gNC4JKe.png)!important;
 }
 
 /*WALKA*/
 
 #battlepanelback,#battleclose,#battlehelp,#battlepanel.big #battlehelp:hover,#battlepanel.big #battlehelp,#battle .border-b {
-background-image:url(http://i.imgur.com/XXi3cgj.png);
+background-image:url(http://i.imgur.com/XXi3cgj.png)!important;
 }
 
 #battle_for_forum{
@@ -177,7 +177,7 @@ background-image:url(http://i.imgur.com/XXi3cgj.png);
 /*LOOTY*/
 
 #loots {
-background:url(http://i.imgur.com/b5yZcOz.png);
+background:url(http://i.imgur.com/b5yZcOz.png)!important;
 }
 
 #mytr_value, #tr2_value {
@@ -188,7 +188,7 @@ text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
 }
 
 #loots_l,#loots_r,#loots .loot,#loots B.yes,#loots B.no,#loots_counter,#loots_button,#loots B.need {
-background-image:url(http://i.imgur.com/AGxgWXo.png);
+background-image:url(http://i.imgur.com/AGxgWXo.png)!important;
 background-color:transparent;
 }
 
@@ -202,12 +202,12 @@ border:0 solid #474646;
 
 /*POCZTA*/
 #mails {
-background-image:url(http://i.imgur.com/qEij6Wr.png);
+background-image:url(http://i.imgur.com/qEij6Wr.png)!important;
 text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
 }
 
 #inbox button {
-background-image:url(http://i.imgur.com/Gjpi6eW.png);
+background-image:url(http://i.imgur.com/Gjpi6eW.png)!important;
 }
 
 #inbox, #inbox .onemail, #inbox .newmsgout {
@@ -215,7 +215,7 @@ background-image: url(http://i.imgur.com/Lfy5nCS.png)!important;
 color: #FFF !important;
 }
 #inbox b.mailnick {
-background-image:url(http://i.imgur.com/1zAldyV.png);
+background-image:url(http://i.imgur.com/1zAldyV.png)!important;
 }
 
 #inbox small {
@@ -228,31 +228,31 @@ left:-2px;
 }
 
 .mailitem{
-background-image:url(http://i.imgur.com/xuxXhz3.png);
+background-image:url(http://i.imgur.com/xuxXhz3.png)!important;
 width: 32px;
 height: 32px;
 border: none;
 }
 
 #mailnotifier{
-background-image:url(http://i.imgur.com/0XCYLiy.png);
+background-image:url(http://i.imgur.com/0XCYLiy.png)!important;
 }
 
 /*OKNO PRZYJACIł*/
 
 #friends {
-background-image:url(http://i.imgur.com/HIhoq0h.png);
+background-image:url(http://i.imgur.com/HIhoq0h.png)!important;
 }
 
 .frdn,.frup,#frsort,.chatfr,.delfr,.delen,#fradd,#enadd {
-background-image:url(http://i.imgur.com/GXiaQya.png);
+background-image:url(http://i.imgur.com/GXiaQya.png)!important;
 background-color:transparent!important;
 }
 
 /*OKNO MAPY*/
 
 #mappanel {
-background-image:url(http://i.imgur.com/YyyysTj.png);
+background-image:url(http://i.imgur.com/YyyysTj.png)!important;
 }
 UL.boxhover LI:hover {
   border:2px solid white;
@@ -269,7 +269,7 @@ text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
 /*OKNO DODATKóW*/
 
 #addonspanel {
-background-image:url(http://i.imgur.com/Ix79W9l.png);
+background-image:url(http://i.imgur.com/Ix79W9l.png)!important;
 }
 
 #addons .addon .description .name, #addons .addon .description .author{
@@ -294,7 +294,7 @@ color:white!important;
 /*OKNO KLANóW*/
 
 #clanmenu {
-background-image:url(http://i.imgur.com/HWShjD7.png);
+background-image:url(http://i.imgur.com/HWShjD7.png)!important;
 }
 
 #clanbox {
@@ -378,15 +378,15 @@ color: #AAA !important;
 /*KONFIGURACJA*/
 
 #config .save {
-background-image:url(http://i.imgur.com/CN3yHOv.png);
+background-image:url(http://i.imgur.com/CN3yHOv.png)!important;
 }
 
 #config .cancel {
-background-image:url(http://i.imgur.com/2K72H3s.png);
+background-image:url(http://i.imgur.com/2K72H3s.png)!important;
 }
 
 #config {
-background-image:url(http://i.imgur.com/L0DJkVm.png);
+background-image:url(http://i.imgur.com/L0DJkVm.png)!important;
 }
 
 .conf-title {
@@ -468,14 +468,14 @@ display:none!important;
 
 
 #dialog {
-background-image:url(http://i.imgur.com/xgei7Mh.png);
+background-image:url(http://i.imgur.com/xgei7Mh.png)!important;
 width: 510px;
 height: 317px;
 text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
 }
 
 #dialog .borders {
-background:url(http://i.imgur.com/uD1HtdR.png);
+background:url(http://i.imgur.com/uD1HtdR.png)!important;
 }
 
 #dropmenu{
@@ -517,7 +517,7 @@ text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
 
 /*UMIEJóTNO?CI*/
 #skills,#skills_bar,#skills_title {
-background-image:url(http://i.imgur.com/eeqc0SZ.png);
+background-image:url(http://i.imgur.com/eeqc0SZ.png)!important;
 text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
 }
 
@@ -535,13 +535,13 @@ background-color:transparent!important;
 
 .skillbox B.sk_act, .skillbox a.sk_act {
   position:absolute;
-  background: url(http://i.imgur.com/tTeMEbh.png) no-repeat 0 -132px;
+  background: url(http://i.imgur.com/tTeMEbh.png) no-repeat 0 -132px!important;
 }
 
 /*KONSOLA*/
 
 #console {
-background-image:url(http://i.imgur.com/a8BkEyw.png);
+background-image:url(http://i.imgur.com/a8BkEyw.png)!important;
 text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
 }
 
@@ -588,29 +588,29 @@ color:white;
 /*SKLEP*/
 
 #shop {
-background-image:url(http://i.imgur.com/D89bbWm.png);
+background-image:url(http://i.imgur.com/D89bbWm.png)!important;
 text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
 color: white!important;
 }
 
 #shop.outfit {
-background-image:url(http://i.imgur.com/FHEO0bw.png);
+background-image:url(http://i.imgur.com/FHEO0bw.png)!important;
 text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
 color: white!important;
 }
 
 #shop_accept,#shop_close {
-background-image:url(http://i.imgur.com/cn4gwoK.png);
+background-image:url(http://i.imgur.com/cn4gwoK.png)!important;
 }
 
 /*DEPOZYT*/
 #depo,#depo-title {
-background-image:url(http://i.imgur.com/78tClWF.png);
+background-image:url(http://i.imgur.com/78tClWF.png)!important;
 text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
 }
 
 #depo button, #depo-gold input {
-background-image:url(http://i.imgur.com/6YFrmy7.png);
+background-image:url(http://i.imgur.com/6YFrmy7.png)!important;
 }
 /*AUKCJE*/
 #ahtitle,#ah_mylist h5,#auctions #ah_filter button,#ah_filter,#ahselect,#auctions button,#ahselect B#b_myah,#auctions .sep,#auctions .itemcont {
@@ -713,17 +713,17 @@ background-position:0 -247px;
 }
 
 #auctions .ahitem{
-background-image:url(http://i.imgur.com/xuxXhz3.png);
+background-image:url(http://i.imgur.com/xuxXhz3.png)!important;
 }
 /*ALERTY*/
 
 #alert .a1,#alert .a3,#alert button,#dlgwin .w1,#staminashop .a1,#staminashop .a3,#staminashop button {
 color:#FFF;
-background-image:url(http://i.imgur.com/hJclWZD.png);
+background-image:url(http://i.imgur.com/hJclWZD.png)!important;
 }
 
 #alert,#dlgwin,#staminashop {
-background:url(http://i.imgur.com/UEthPJQ.png);
+background:url(http://i.imgur.com/UEthPJQ.png)!important;
 color:#FFF;
 }
 
@@ -734,7 +734,7 @@ color: #FFF;
 /* NOWY POZIOM*/
 
 #abilitypoints {
-background-image:url(http://i.imgur.com/OZqu037.png);
+background-image:url(http://i.imgur.com/OZqu037.png)!important;
 text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
 }
 
@@ -743,21 +743,21 @@ color: white;
 }
 
 #newlvl {
-background-image:url(http://i.imgur.com/qVUIFZu.png);
+background-image:url(http://i.imgur.com/qVUIFZu.png)!important;
 }
 
 .ab1 {
-background:url(http://i.imgur.com/XyewMV9.png);
+background:url(http://i.imgur.com/XyewMV9.png)!important;
 }
 
 .ab5 {
-background:url(http://i.imgur.com/8tXgBjs.png);
+background:url(http://i.imgur.com/8tXgBjs.png)!important;
 }
 
 /*CIEN - tekst*/
 
 #i_hpinfo1{
-background: url(http://i.imgur.com/LfEOGka.png);
+background: url(http://i.imgur.com/LfEOGka.png)!important;
 height: 25px;
 position: absolute;
 top: 45px;
@@ -856,7 +856,7 @@ input#addon_search{color: white; font-family: Arial; font-size: 12px;}
 
 #alert div.mAlertInputContainer div.bLeft,#alert div.mAlertInputContainer div.bRight{display: none;}
 
-#autobattleButton{background:url(http://i.imgur.com/ezymDKr.png); border: none; border-radius: 0px; width: 62px; height: 22px; font-size: 0px; line-height:999px;}
+#autobattleButton{background:url(http://i.imgur.com/ezymDKr.png)!important!important; border: none; border-radius: 0px; width: 62px; height: 22px; font-size: 0px; line-height:999px;}
 
 ul.stamina_pay_options li{
 	margin-bottom: 5px !important;
