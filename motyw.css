@@ -98,27 +98,27 @@ background-image:url(http://i.imgur.com/U3xj6u1.png);
 }
 #life2{
   background-image: url(http://i.imgur.com/JxSxx74.png) !important;
-  left:545px;
-  top: 46px;
+  left:545px!important;
+  top: 46px!important;
   height: 10px !important;
 }
 #exp2{
-  left:545px;
-  top: 62px;
-  height: 10px;
+  left:545px!important;
+  top: 62px!important;
+  height: 10px!important;
 }
 #life1{
-  width: 112px;
-  top: 44px;
-  height: 12px;
-  left:  531px;
+  width: 112px!important;
+  top: 44px!important;
+  height: 12px!important;
+  left:  531px!important;
   text-align: center;
 }
 #exp1{
-  width: 112px;
-  top: 60px;
-  height: 12px;
-  left:  531px;
+  width: 112px!important;
+  top: 60px!important;
+  height: 12px!important;
+  left:  531px!important;
   text-align: center;
 }
 #exp1 span, #life1 span{
@@ -189,7 +189,7 @@ text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
 
 #loots_l,#loots_r,#loots .loot,#loots B.yes,#loots B.no,#loots_counter,#loots_button,#loots B.need {
 background-image:url(http://i.imgur.com/AGxgWXo.png)!important;
-background-color:transparent;
+background-color:transparent!important;
 }
 
 #loots_bag, #loots_counter{
@@ -535,7 +535,7 @@ background-color:transparent!important;
 
 .skillbox B.sk_act, .skillbox a.sk_act {
   position:absolute;
-  background: url(http://i.imgur.com/tTeMEbh.png) no-repeat 0 -132px!important;
+  background: url(http://i.imgur.com/tTeMEbh.png) no-repeat 0 -132px !important;
 }
 
 /*KONSOLA*/
