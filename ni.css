@@ -1,4 +1,8 @@
-.game-window-positioner{
+.layer{
  width:1024px;
   height:880px;
+ margin-left: auto;
+margin-right: auto;
+left: 0;
+right: 0;
 }
