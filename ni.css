@@ -1,8 +1,12 @@
 .layer{
- width:1024px;
-  height:880px;
- margin-left: auto;
-margin-right: auto;
-left: 0;
-right: 0;
+ width:75%;
+  height:75%;
+ margin: auto;
+
+top: 0; left: 0; bottom: 0; right: 0;
+}
+.game-layer{
+    
+ left:-245px!important;  
+ width: calc(75% - 245px);
 }
