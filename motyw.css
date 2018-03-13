@@ -1,12 +1,9 @@
 /* Ogólny widok */
-#panel{width: 273px !important;}
 #gold{line-height: 13px !important;}
 .w2{height: 399px !important;}
 #lagmeter {
-background-image:url(http://i.imgur.com/MzrtNE1.png)!important;
-width: 16px;
+background-image:url(https://i.imgur.com/6U27llh.png)!important;
 top: 520px;
-left: 497px;
 }
 #lastmsg{
 text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
@@ -14,6 +11,7 @@ text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
 
 #panel {
 background-image: url('http://i.imgur.com/7XTaLMa.png')!important;
+width: 273px !important;
 }
 #volumeSlider .marker,#hdbutton,#shufflebutton,#startbutton {
 background-image:url(http://i.imgur.com/TJfyow0.png)!important;
@@ -443,8 +441,9 @@ background: url(http://i.imgur.com/LUfKv6F.png) no-repeat scroll center bottom !
 
 #tip {
 background-image: none !important;
-background-color: rgba(0,0,0,0.95) !important;
-border-color:#b48435!important;
+background-color: rgba(0,0,0,0.85) !important;
+border: 7px solid transparent!important;
+border-image: url(http://i.imgur.com/q8RXj3n.png) 7 7 repeat!important;
 text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
 }
 
