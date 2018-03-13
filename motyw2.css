@@ -197,6 +197,13 @@ background-image:url(http://i.imgur.com/gNC4JKe.png);
 #battlepanelback,#battleclose,#battlehelp,#battlepanel.big #battlehelp:hover,#battlepanel.big #battlehelp,#battle .border-b {
 background-image:url(https://i.imgur.com/lOMB8jQ.png);
 }
+#battle .border-b{
+  background:none;
+}
+#battlelog{
+top:395px;	
+}
+
 
 #battle_for_forum{
     border: 1px solid #999999;
