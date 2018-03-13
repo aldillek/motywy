@@ -142,7 +142,7 @@ text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
 /*CHAT*/
 
 #chat.left,#chat.left #chattabs s {
-background-image:url(http://i.imgur.com/54bSXIh.png)!important;
+background-image:url(https://i.imgur.com/oIQQhfw.png)!important;
 margin:0;
 }
 
@@ -811,6 +811,9 @@ color: #FFF;
 }
 #chattxt {
 text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
+}
+#chattxtContainer{
+padding:7px 7px 0px 6px!important;	
 }
 #lastmsg, {
     width: 300px !important;
