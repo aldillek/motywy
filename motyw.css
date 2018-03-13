@@ -1,4 +1,19 @@
 /* Ogólny widok */
+
+/* motyw changes */
+#motyw_changes{
+    display: block;
+    width: 278px;
+    height: 23px;
+    background-color: white;
+    margin-top: -26px;
+    position: absolute;
+	background-image:url(https://i.imgur.com/oV3sW5H.png);
+}
+#motyw_changes:hover{
+background-positon: 0 -278px;	
+}
+
 #gold{line-height: 13px !important;}
 .w2{height: 399px !important;}
 #lagmeter {
