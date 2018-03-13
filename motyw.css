@@ -37,23 +37,23 @@ left: 525px;
 }
 #corners img{height: 0 !important; display: inline-block;}
 #corners .border-u {
-background-image:url(http://i.imgur.com/AzSXJDL.png)!important;
+background-image:url(https://i.imgur.com/6bX0fZq.png)!important;
 width:799px;
 padding:7px 0 0;
 }
 #corners .border-d {
-background-image:url(http://i.imgur.com/be0DcwL.png)!important;
+background-image:url(https://i.imgur.com/W4N4nBO.png)!important;
 width:799px;
 padding:7px 0 0;
 }
 #corners .border-r {
-background-image:url(http://i.imgur.com/DNDglCI.png)!important;
+background-image:url(https://i.imgur.com/JfN5Bgq.png)!important;
 width:7px;
 padding:537px 0 0;
 margin-left: -1px;
 }
 #corners .border-l {
-background-image:url(http://i.imgur.com/8APU8kb.png)!important;
+background-image:url(https://i.imgur.com/bJueQii.png)!important;
 background-repeat: no-repeat;
 width:7px;
 padding:537px 0 0;
@@ -859,4 +859,8 @@ input#addon_search{color: white; font-family: Arial; font-size: 12px;}
 
 ul.stamina_pay_options li{
 	margin-bottom: 5px !important;
+}
+
+.itemHighlighter {
+background-image: url(https://i.imgur.com/o3LRLdN.png)!important;	
 }
