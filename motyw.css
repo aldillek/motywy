@@ -90,7 +90,7 @@ background: rgba(255,255,255,0.5);
 left: 32px;
 }
 #inpchat {
-background: none;
+background: black;
 opacity: .8;
 width:337px;
 }
