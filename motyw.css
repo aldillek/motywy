@@ -39,27 +39,28 @@ left: 525px;
 #corners .border-u {
 background-image:url(https://i.imgur.com/6bX0fZq.png)!important;
 width:799px;
-padding:7px 0 0;
+padding:9px 0 0;
+top:9px!important;
 }
 #corners .border-d {
 background-image:url(https://i.imgur.com/W4N4nBO.png)!important;
 width:799px;
-padding:7px 0 0;
+padding:9px 0 0;
 }
 #corners .border-r {
 background-image:url(https://i.imgur.com/JfN5Bgq.png)!important;
-width:7px;
+width:9px;
 padding:537px 0 0;
-margin-left: -1px;
+margin-left: -3px;
 }
 #corners .border-l {
 background-image:url(https://i.imgur.com/bJueQii.png)!important;
 background-repeat: no-repeat;
-width:7px;
+width:9px;
 padding:537px 0 0;
 }
 #bottombar {
-background-image:url(http://i.imgur.com/N6ROLzW.png)!important;
+background-image:url(https://i.imgur.com/x42n3TE.png)!important;
 }
 #pvpmode {
 height: 16px;
