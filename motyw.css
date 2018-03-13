@@ -101,6 +101,10 @@ bottom: -4px;
 #skillSwitch.first,#skillSwitch.second {
 background-image:url(http://i.imgur.com/U3xj6u1.png)!important;
 }
+#life2, #exp2{
+transition: width 0.5s;	
+}
+
 #life2{
   background-image: url(http://i.imgur.com/JxSxx74.png) !important;
   left:545px!important;
