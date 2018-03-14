@@ -15,7 +15,7 @@ text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
 	left:438px!important;
 }
 #panel {
-background-image: url('http://i.imgur.com/7XTaLMa.png')!important;
+background-image: url('https://i.imgur.com/5OYiESw.png')!important;
 width: 273px !important;
 }
 #volumeSlider .marker,#hdbutton,#shufflebutton,#startbutton {
@@ -37,7 +37,7 @@ text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
 #gold {
 color: white;
 text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
-top: 88px;
+top: 77px;
 left: 525px;
 }
 #corners img{height: 0 !important; display: inline-block;}
@@ -102,38 +102,41 @@ bottom: -4px;
 background-image:url(http://i.imgur.com/U3xj6u1.png)!important;
 }
 #life2, #exp2{
-transition: width 0.5s;	
+	transition: width 0.5s;
+	box-shadow:inset 0px 0px 4px 2px rgba(0,0,0,1);
+}
+#life1, #exp1{
+	padding-top:3px;
 }
 
 #life2{
-  background-image: url(http://i.imgur.com/JxSxx74.png) !important;
-  left:545px!important;
-  top: 46px!important;
-  height: 10px !important;
+  background-image: url(http://i.imgur.com/qXuke25.png) !important;
+  left:521px;
+  top: 25px;
+  height: 15px !important;
 }
 #exp2{
-  left:545px!important;
-  top: 62px!important;
-  height: 10px!important;
+  left:521px;
+  top: 43px;
+  height: 15px;
 }
 #life1{
-  width: 112px!important;
-  top: 44px!important;
-  height: 12px!important;
-  left:  531px!important;
+  width: 262px;
+  top: 27px;
+  height: 15px;
+  left:  521px;
   text-align: center;
 }
 #exp1{
-  width: 112px!important;
-  top: 60px!important;
-  height: 12px!important;
-  left:  531px!important;
+  width:262px;
+  top: 45px;
+  height: 15px;
+  left:  521px;
   text-align: center;
 }
 #exp1 span, #life1 span{
-	font: 11px Calibri;
+	font-size: 10px;
 	color: #fff;
-	margin-left: 10px;
 	text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
 }
 /*HANDEL*/
@@ -869,7 +872,7 @@ text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
 
 input#addon_search{color: white; font-family: Arial; font-size: 12px;}
 
-#nick{font-weight:normal; text-shadow: -1px 0px #000, 0px 1px #000, 1px 0px #000, 0px -1px #000;}
+#nick{font-weight:normal; text-shadow: -1px 0px #000, 0px 1px #000, 1px 0px #000, 0px -1px #000; margin-top:1px;}
 
 #alert div.mAlertInputContainer input[name="mAlertInput"]{width: 255px; cursor: text; text-align:center; color: white; font-weight: normal!important; border: 0px; padding: 0px; height: 30px; background:url(http://i.imgur.com/LSnWuYx.png) no-repeat;}
 
