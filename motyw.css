@@ -889,6 +889,7 @@ ul.stamina_pay_options li{
 
 .itemHighlighter {
 background-image: url(https://i.imgur.com/o3LRLdN.png)!important;	
+background-position:-32px 0px;
 }
 
 .itemHighlighter.t_uni{background-position: -96px 0px;}
