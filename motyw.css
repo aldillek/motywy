@@ -125,14 +125,14 @@ background-image:url(http://i.imgur.com/U3xj6u1.png)!important;
 }
 #life1{
   width: 262px;
-  top: 27px;
+  top: 25px;
   height: 15px;
   left:  521px;
   text-align: center;
 }
 #exp1{
   width:262px;
-  top: 45px;
+  top: 43px;
   height: 15px;
   left:  521px;
   text-align: center;
@@ -830,7 +830,7 @@ color: #FFF;
 text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
 }
 #chatTxtContainer{
-padding:7px 7px 0px 6px!important;	
+padding:6px 22px 5px 8px!important;	
 }
 #lastmsg, {
     width: 300px !important;
