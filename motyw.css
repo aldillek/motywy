@@ -197,8 +197,8 @@ top:395px;
 
 /*LOOTY*/
 
-#loots {
-background:url(http://i.imgur.com/b5yZcOz.png)!important;
+#loots {background: url(https://i.imgur.com/LQnfejM.png)!important;
+box-shadow: inset 0px 0px 15px 10px rgba(0,0,0,1), 0px 0px 15px 10px rgba(0,0,0,1) ;
 }
 
 #mytr_value, #tr2_value {
@@ -208,9 +208,12 @@ margin-left: 4px;
 text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
 }
 
-#loots_l,#loots_r,#loots .loot,#loots B.yes,#loots B.no,#loots_counter,#loots_button,#loots B.need {
+#loots .loot,#loots B.yes,#loots B.no,#loots_counter,#loots_button,#loots B.need {
 background-image:url(http://i.imgur.com/AGxgWXo.png)!important;
 background-color:transparent!important;
+}
+#loots_l,#loots_r{
+  display:none;
 }
 
 #loots_bag, #loots_counter{
