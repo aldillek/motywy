@@ -118,6 +118,8 @@ background-position: 22px -22px;
 
 .MM-battleset-switch-button{
 background-image:url(https://i.imgur.com/tTpqHu8.png);	
+	top: 239px;
+	left: 145px;
 }
 #logoutbut:hover{
 	background-position: 0px -22px;
