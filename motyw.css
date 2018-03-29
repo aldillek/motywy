@@ -84,12 +84,28 @@ background-image:url(http://i.imgur.com/OqolwPW.png);
 #buttons div{
 	background-image: url(https://i.imgur.com/Kwru8hJ.png);
 }
+#b_help, #b_addons{
+	background-image: url(https://i.imgur.com/Kwru8hJ.png);
+}
+	
+#premiumbut:hover{
+background-position: 22px -22px;	
+}
 
+#logoutbut:hover{
+	background-position: 0px -22px;
+}
 #premiumbut {
 background-image:url(https://i.imgur.com/P5rdvEz.png);
+	width:22px;
+	height:22px;
+	background-position:22px 0px;
 }
 #logoutbut {
-	background-image:url(https://i.imgur.com/P5rdvEz.png);
+	background-image:url(https://i.imgur.com/P5rdvEz.png)!important;
+	width:22px;
+	height:22px;
+	background-position:0px 0px;
 }
 #lastmsg {
 left: 4px;
