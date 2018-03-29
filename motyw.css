@@ -80,14 +80,38 @@ background-image:url(http://i.imgur.com/Px1Ug8E.png)!important;
 #bchat {
 background-image:url(http://i.imgur.com/OqolwPW.png);
 }
-
+#buttons{
+  left: 41px;
+  top: 513px;
+  height: 22px;
+  width: 180px;
+}
 #buttons div{
 	background-image: url(https://i.imgur.com/Kwru8hJ.png);
 }
 #b_help, #b_addons{
 	background-image: url(https://i.imgur.com/Kwru8hJ.png);
 }
-	
+
+DIV#b_addons {background-position:-176px 0;left: 223px;top: 512px;}
+DIV#b_addons:hover { background-position:-176px -22px; }
+DIV#b_help {background-position:-246px 0;left: 203px;top: 513px;}
+DIV#b_help:hover { background-position:-246px -22px; }
+DIV#b_clans {background-position:-22px 0;left: 20px;}
+DIV#b_clans:hover { background-position:-22px -22px; }
+DIV#b_recipes { background-position:-44px 0; left:40px}
+DIV#b_recipes:hover { background-position:-44px -22px; left:40px }
+DIV#b_config { background-position:-88px 0; left:61px }
+DIV#b_config:hover { background-position:-88px -22px; left:61px; }
+DIV#b_map {background-position:-110px 0;left:81px; top:0}
+DIV#b_map:hover { background-position:-110px -22px; }
+DIV#b_skills { background-position:-132px 0; left:101px; top:0; }
+DIV#b_skills:hover { background-position:-132px -22px; }
+DIV#b_friends { background-position:-154px 0; left:121px; top:0px;}
+DIV#b_friends:hover { background-position:-154px -22px; }
+DIV#b_matchmaking { background-position:-224px 0; left:141px; top:0px;  }
+DIV#b_matchmaking:hover { background-position:-224px -22px; }	
+
 #premiumbut:hover{
 background-position: 22px -22px;	
 }
@@ -100,11 +124,13 @@ background-image:url(https://i.imgur.com/P5rdvEz.png);
 	width:22px;
 	height:22px;
 	background-position:22px 0px;
+	left:525px;
 }
 #logoutbut {
 	background-image:url(https://i.imgur.com/P5rdvEz.png)!important;
 	width:22px;
 	height:22px;
+	left:760px;
 	background-position:0px 0px;
 }
 #lastmsg {
