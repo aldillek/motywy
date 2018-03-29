@@ -86,7 +86,7 @@ background-image:url(http://i.imgur.com/OqolwPW.png);
   height: 22px;
   width: 180px;
 }
-#buttons div{
+#buttons div, #b_pvp{
 	background-image: url(https://i.imgur.com/Kwru8hJ.png);
 }
 #b_help, #b_addons{
