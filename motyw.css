@@ -77,11 +77,41 @@ margin-top: 3px;
 left: -2px;
 background-image:url(http://i.imgur.com/Px1Ug8E.png)!important;
 }
-#buttons div,#helpbut,#logoutbut,#bchat {
-background-image:url(http://i.imgur.com/OqolwPW.png)!important;
+#helpbut,#logoutbut,#bchat {
+background-image:url(http://i.imgur.com/OqolwPW.png);
 }
+
+#buttons{
+	left:280px;
+	top:70px;
+}
+#buttons div{
+	background-image: url(http://i.imgur.com/dHN2bnQ.png);
+	width:41px;
+	height:46px;
+	position:relative;
+	left:0;
+	top:0;
+}
+#b_quests { background-position:0 0!important; }
+#b_quests:hover { background-position:-41px 0px!important; }
+#b_clans { background-position: 0px -46px!important;  }
+#b_clans:hover { background-position:-41px -46px!important; }
+#b_pvp { background-position: 0px -92px!important;  }
+#b_config { background-position: 0px -184px!important;  }
+#b_config:hover { background-position:  -41px -184px!important; }
+#b_map { background-position: 0px -230px!important;}
+#b_map:hover { background-position:  -41px -230px!important; }
+#b_skills { background-position: 0px -276px!important;  }
+#b_skills:hover { background-position:  -41px -276px!important ;}
+#b_friends { background-position: 0px -322px!important; }
+#b_friends:hover { background-position:  -41px -322px!important ;}
+#b_addons { background-position: 0px -368px!important; }
+#b_addons:hover { background-position:  -41px -368px!important }
+
+
 #premiumbut {
-background-image:url(http://i.imgur.com/93lnjoI.png)!important;
+background-image:url(http://i.imgur.com/93lnjoI.png);
 }
 #lastmsg {
 left: 4px;
