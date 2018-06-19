@@ -947,11 +947,3 @@ input#addon_search{color: white; font-family: Arial; font-size: 12px;}
 ul.stamina_pay_options li{
 	margin-bottom: 5px !important;
 }
-
-.itemHighlighter {
-background-image: url(https://i.imgur.com/o3LRLdN.png)!important;	
-background-position:-32px 0px;
-}
-
-.itemHighlighter.t_uni{background-position: -96px 0px;}
-.itemHighlighter.t_upg{background-position: -192px 0px;}
