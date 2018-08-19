@@ -31,6 +31,7 @@ background-image:url(http://i.imgur.com/TJfyow0.png);
 #stats {
 background-image: url('https://i.imgur.com/BF6hAsr.png');
 text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
+z-index:none;
 }
 #base3 {
 color: white;
@@ -46,6 +47,7 @@ color: white;
 text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
 top: 77px;
 left: 525px;
+	z-index:none;
 }
 #corners img{height: 0 ; display: inline-block;}
 #corners .border-u {
@@ -109,6 +111,7 @@ background-image:url(https://i.imgur.com/P5rdvEz.png);
 	height:22px;
 	background-position:22px 0px;
 	left:525px;
+	z-index:none;
 }
 #logoutbut {
 	background-image:url(https://i.imgur.com/P5rdvEz.png);
@@ -116,6 +119,7 @@ background-image:url(https://i.imgur.com/P5rdvEz.png);
 	height:22px;
 	left:760px;
 	background-position:0px 0px;
+	z-index:none;
 }
 #lastmsg {
 left: 4px;
