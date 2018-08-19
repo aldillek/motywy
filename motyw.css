@@ -502,8 +502,8 @@ background: url(http://i.imgur.com/LUfKv6F.png) no-repeat scroll center bottom ;
 }
 
 #tip {
-background-image: none ;
-background-color: rgba(0,0,0,0.85) ;
+background-image: none!important;
+background-color: rgba(0,0,0,0.85)!important ;
 border: 7px solid transparent;
 border-image: url(http://i.imgur.com/q8RXj3n.png) 7 7 repeat;
 text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
