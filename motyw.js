@@ -1,8 +1,10 @@
+// Ja jestem autorem motywu świata prywatnego Invisible.
+// Zmiana hostingu.
+
 $___skin = new (function(){
-  
 	this.Replace = function(){
 		/* Podmiana funkcji */
-
+		
 		/* -- PARSEINPUT -- */
 		(function(pI){
 			parseInput = function(d,c,x){
@@ -10,7 +12,10 @@ $___skin = new (function(){
 				$___skin.Update();
 				return r_pi;
 			}
+
 		})(parseInput);
+
+		
 
 		/* -- SHOWDIALOG -- */
 
@@ -32,14 +37,15 @@ $___skin = new (function(){
 				return r_sd;
 			}
 		})(showDialog);
-	}
 
+
+	}
 	this.Start = function(){
 		/* Inicjalizacja */
-      
+ 
 		this.Replace();
-		
-		$('<link rel="stylesheet" type="text/css" href="https://aldill.github.io/motywy/motyw.css?v=311321"/>').appendTo('head');
+
+		$('<link rel="stylesheet" type="text/css" href=""/>').appendTo('head');
 		$('#leorn1,#leorn2').remove();
 		$('#party img').attr('src','http://i.imgur.com/abvXEQY.png');
 		$('#inmap2 img').attr('src','http://i.imgur.com/1Y9xMiH.png');
@@ -54,9 +60,24 @@ $___skin = new (function(){
           left:'170px'
      
       }).appendTo("#panel");
-      
+	
+	$('<div></div>').attr({
+        	'id': 'motywstatspanel'
+      }).css({
+        position: 'absolute',
+        height:'474px',
+        width:'264px',
+        display:'block',
+          top:'79px',
+          left:'170px',
+          background-image:'url(https://i.imgur.com/kOiBHu1.png)'
+     
+      }).appendTo("#panel");
+
+
+        };
         
-	};
+	
 	this.Update = function(){
 		/* Apdejt */
 		$('#life2').css({
