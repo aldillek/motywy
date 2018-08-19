@@ -1,9 +1,12 @@
 /* Ogólny widok */
-
-#gold{line-height: 13px !important;}
-.w2{height: 399px !important;}
+.itemHighlighter { 
+	background-image: url(https://i.imgur.com/VDBQoRS.png); 
+	opacity:.95; 
+}
+#gold{line-height: 13px ;}
+.w2{height: 399px ;}
 #lagmeter {
-background-image:url(https://i.imgur.com/XQ3ICgc.png)!important;
+background-image:url(https://i.imgur.com/XQ3ICgc.png);
 top: 520px;
 }
 #lastmsg{
@@ -14,18 +17,18 @@ display:none;
 }
 
 #botloc{
-	top:522px!important;
-	left:438px!important;
+	top:522px;
+	left:438px;
 }
 #panel {
-background-image: url('https://i.imgur.com/5OYiESw.png')!important;
-width: 273px !important;
+background-image: url('https://i.imgur.com/5OYiESw.png');
+width: 273px ;
 }
 #volumeSlider .marker,#hdbutton,#shufflebutton,#startbutton {
-background-image:url(http://i.imgur.com/TJfyow0.png)!important;
+background-image:url(http://i.imgur.com/TJfyow0.png);
 }
 #stats {
-background-image: url('https://i.imgur.com/BF6hAsr.png')!important;
+background-image: url('https://i.imgur.com/BF6hAsr.png');
 text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
 }
 #base3 {
@@ -43,39 +46,39 @@ text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
 top: 77px;
 left: 525px;
 }
-#corners img{height: 0 !important; display: inline-block;}
+#corners img{height: 0 ; display: inline-block;}
 #corners .border-u {
-background-image:url(https://i.imgur.com/6bX0fZq.png)!important;
+background-image:url(https://i.imgur.com/6bX0fZq.png);
 width:799px;
 padding:9px 0 0;
-top:-9px!important;
+top:-9px;
 }
 #corners .border-d {
-background-image:url(https://i.imgur.com/6aaczzI.png)!important;
+background-image:url(https://i.imgur.com/6aaczzI.png);
 width:799px;
 padding:9px 0 0;
 }
 #corners .border-r {
-background-image:url(https://i.imgur.com/JfN5Bgq.png)!important;
+background-image:url(https://i.imgur.com/JfN5Bgq.png);
 width:9px;
 padding:537px 0 0;
 margin-left: -3px;
 }
 #corners .border-l {
-background-image:url(https://i.imgur.com/zGfzswS.png)!important;
+background-image:url(https://i.imgur.com/zGfzswS.png);
 background-repeat: no-repeat;
 width:9px;
 padding:537px 0 0;
 }
 #bottombar {
-background-image:url(https://i.imgur.com/xKbMLJu.png)!important;
+background-image:url(https://i.imgur.com/xKbMLJu.png);
 }
 #pvpmode {
 height: 16px;
 width: 29px;
 margin-top: 3px;
 left: -2px;
-background-image:url(http://i.imgur.com/Px1Ug8E.png)!important;
+background-image:url(http://i.imgur.com/Px1Ug8E.png);
 }
 #bchat {
 background-image:url(http://i.imgur.com/OqolwPW.png);
@@ -107,7 +110,7 @@ background-image:url(https://i.imgur.com/P5rdvEz.png);
 	left:525px;
 }
 #logoutbut {
-	background-image:url(https://i.imgur.com/P5rdvEz.png)!important;
+	background-image:url(https://i.imgur.com/P5rdvEz.png);
 	width:22px;
 	height:22px;
 	left:760px;
@@ -128,11 +131,11 @@ opacity: .8;
 width:337px;
 }
 #event_calendar_switch{
-background-image: url(http://i.imgur.com/sGoqmIv.png) !important;
+background-image: url(http://i.imgur.com/sGoqmIv.png) ;
 bottom: -4px;
 }
 #skillSwitch.first,#skillSwitch.second, #skillSwitch.third {
-background-image:url(https://i.imgur.com/ieygWAC.png)!important;
+background-image:url(https://i.imgur.com/ieygWAC.png);
 }
 #life2, #exp2{
 	transition: width 0.5s;
@@ -143,10 +146,10 @@ background-image:url(https://i.imgur.com/ieygWAC.png)!important;
 }
 
 #life2{
-  background-image: url(http://i.imgur.com/qXuke25.png) !important;
+  background-image: url(http://i.imgur.com/qXuke25.png) ;
   left:521px;
   top: 25px;
-  height: 15px !important;
+  height: 15px ;
 }
 #exp2{
   left:521px;
@@ -174,7 +177,7 @@ background-image:url(https://i.imgur.com/ieygWAC.png)!important;
 }
 /*HANDEL*/
 #tradebg,#tradeaccept,#tradeaccept2,#tradecancel {
-background-image:url(http://i.imgur.com/BPKlHrM.png)!important;
+background-image:url(http://i.imgur.com/BPKlHrM.png);
 background-color: transparent;
 color: #FFF;
 text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
@@ -183,12 +186,12 @@ text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
 /*CHAT*/
 
 #chat.left,#chat.left #chattabs s {
-background-image:url(https://i.imgur.com/oIQQhfw.png)!important;
+background-image:url(https://i.imgur.com/oIQQhfw.png);
 margin:0;
 }
 
 #chat #chattabs S,#chat {
-background-image:url(http://i.imgur.com/gNC4JKe.png)!important;
+background-image:url(http://i.imgur.com/gNC4JKe.png);
 }
 
 /*WALKA*/
@@ -207,7 +210,7 @@ top:395px;
     border: 1px solid #999999;
     resize: none;
     font-family: Calibri;
-    font-size: 12px !important;
+    font-size: 12px ;
     cursor: text;
 }
 
@@ -227,10 +230,10 @@ top:395px;
 
 /*LOOTY*/
 
-#loots {background: url(https://i.imgur.com/LQnfejM.png)!important;
+#loots {background: url(https://i.imgur.com/LQnfejM.png);
 box-shadow: inset 0px 0px 15px 10px rgba(0,0,0,1);
-	border: 7px solid transparent!important;
-border-image: url(http://i.imgur.com/q8RXj3n.png) 7 7 repeat!important;
+	border: 7px solid transparent;
+border-image: url(http://i.imgur.com/q8RXj3n.png) 7 7 repeat;
 	
 }
 
@@ -242,15 +245,15 @@ text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
 }
 
 #loots .loot,#loots B.yes,#loots B.no,#loots_counter,#loots_button,#loots B.need {
-background-image:url(http://i.imgur.com/AGxgWXo.png)!important;
-background-color:transparent!important;
+background-image:url(http://i.imgur.com/AGxgWXo.png);
+background-color:transparent;
 }
 #loots_l,#loots_r{
   display:none;
 }
 
 #loots_bag, #loots_counter{
-color: #FFF !important;
+color: #FFF ;
 text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
 }
 #loots TD {
@@ -259,20 +262,20 @@ border:0 solid #474646;
 
 /*POCZTA*/
 #mails {
-background-image:url(http://i.imgur.com/qEij6Wr.png)!important;
+background-image:url(http://i.imgur.com/qEij6Wr.png);
 text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
 }
 
 #inbox button {
-background-image:url(http://i.imgur.com/Gjpi6eW.png)!important;
+background-image:url(http://i.imgur.com/Gjpi6eW.png);
 }
 
 #inbox, #inbox .onemail, #inbox .newmsgout {
-background-image: url(http://i.imgur.com/Lfy5nCS.png)!important;
-color: #FFF !important;
+background-image: url(http://i.imgur.com/Lfy5nCS.png);
+color: #FFF ;
 }
 #inbox b.mailnick {
-background-image:url(http://i.imgur.com/1zAldyV.png)!important;
+background-image:url(http://i.imgur.com/1zAldyV.png);
 }
 
 #inbox small {
@@ -285,31 +288,31 @@ left:-2px;
 }
 
 .mailitem{
-background-image:url(http://i.imgur.com/xuxXhz3.png)!important;
+background-image:url(http://i.imgur.com/xuxXhz3.png);
 width: 32px;
 height: 32px;
 border: none;
 }
 
 #mailnotifier{
-background-image:url(http://i.imgur.com/0XCYLiy.png)!important;
+background-image:url(http://i.imgur.com/0XCYLiy.png);
 }
 
 /*OKNO PRZYJACIł*/
 
 #friends {
-background-image:url(http://i.imgur.com/HIhoq0h.png)!important;
+background-image:url(http://i.imgur.com/HIhoq0h.png);
 }
 
 .frdn,.frup,#frsort,.chatfr,.delfr,.delen,#fradd,#enadd {
-background-image:url(http://i.imgur.com/GXiaQya.png)!important;
-background-color:transparent!important;
+background-image:url(http://i.imgur.com/GXiaQya.png);
+background-color:transparent;
 }
 
 /*OKNO MAPY*/
 
 #mappanel {
-background-image:url(http://i.imgur.com/YyyysTj.png)!important;
+background-image:url(http://i.imgur.com/YyyysTj.png);
 }
 UL.boxhover LI:hover {
   border:2px solid white;
@@ -320,21 +323,21 @@ UL.boxhover LI:hover {
 text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
 }
 #maplist B:hover {
-  background-color: rgba(0,0,0,0.8) !important;;
+  background-color: rgba(0,0,0,0.8) ;;
 }
 
 /*OKNO DODATKóW*/
 
 #addonspanel {
-background-image:url(http://i.imgur.com/Ix79W9l.png)!important;
+background-image:url(http://i.imgur.com/Ix79W9l.png);
 }
 
 #addons .addon .description .name, #addons .addon .description .author{
-color: #CCC !important;
+color: #CCC ;
 }
 
 #addons .addon .description .name, #addons .addon .description .author{
-color: #CCC !important;
+color: #CCC ;
 }
 
 #addon_help_txt{
@@ -346,12 +349,12 @@ font-weight: bold;
 }
 
 #addons .add_list_menu{
-color:white!important;
+color:white;
 }
 /*OKNO KLANóW*/
 
 #clanmenu {
-background-image:url(http://i.imgur.com/HWShjD7.png)!important;
+background-image:url(http://i.imgur.com/HWShjD7.png);
 }
 
 #clanbox {
@@ -405,15 +408,15 @@ color:#b80101
 }
 
 #clanbox tr.clm_offline .status{
-    color: #FB000D !important;
+    color: #FB000D ;
 }
 
 #clanbox tr.clm_online .status{
-    color: green !important;
+    color: green ;
 }
 
 #clanbox td.gg a{
-    color: #AAA !important;
+    color: #AAA ;
 	text-decoration: none;
 	padding-bottom: 2px;
 	border-bottom: 1px solid #aaa;
@@ -430,20 +433,20 @@ color: white;
 }
 
 #clanbox span.location{
-color: #AAA !important;
+color: #AAA ;
 }
 /*KONFIGURACJA*/
 
 #config .save {
-background-image:url(http://i.imgur.com/CN3yHOv.png)!important;
+background-image:url(http://i.imgur.com/CN3yHOv.png);
 }
 
 #config .cancel {
-background-image:url(http://i.imgur.com/2K72H3s.png)!important;
+background-image:url(http://i.imgur.com/2K72H3s.png);
 }
 
 #config {
-background-image:url(http://i.imgur.com/L0DJkVm.png)!important;
+background-image:url(http://i.imgur.com/L0DJkVm.png);
 }
 
 .conf-title {
@@ -477,12 +480,12 @@ background-image:url(http://i.imgur.com/UzHxdIS.png);
 
 #inmap,#pk_list,#inmap2wrapper,#clanbox,#addons,#auctions {
 color:#FFF;
-background-image:url(http://i.imgur.com/qVjOxGi.png)!important;
+background-image:url(http://i.imgur.com/qVjOxGi.png);
 }
 
 #chatscrollbar,#talkscroll,#myenscrollbar,#myfrscrollbar,#battleskills_scroll,#recoverItemScroll,#h_help_scrolled_scroll {
 position:absolute;
-width:8px !important;
+width:8px ;
 border: none;
 zindex:1000;
 cursor:pointer;
@@ -491,49 +494,49 @@ border: 1px solid #b48435;
 }
 
 #dlgwin .w2[style*=quests-title] {
-background-image:url(http://i.imgur.com/NIcemzT.png) !important;
+background-image:url(http://i.imgur.com/NIcemzT.png) ;
 }
 
 .questlist p{
-background: url(http://i.imgur.com/LUfKv6F.png) no-repeat scroll center bottom !important;
+background: url(http://i.imgur.com/LUfKv6F.png) no-repeat scroll center bottom ;
 }
 
 #tip {
-background-image: none !important;
-background-color: rgba(0,0,0,0.85) !important;
-border: 7px solid transparent!important;
-border-image: url(http://i.imgur.com/q8RXj3n.png) 7 7 repeat!important;
+background-image: none ;
+background-color: rgba(0,0,0,0.85) ;
+border: 7px solid transparent;
+border-image: url(http://i.imgur.com/q8RXj3n.png) 7 7 repeat;
 text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
 }
 
 .golden-text {
-color: #FFF !important;
+color: #FFF ;
 text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
 }
 
 #tip.t_fr,#tip.t_cl {
-  background:#002b00!important;
+  background:#002b00;
 opacity: 0.95;
 }
 #tip.t_cl-fr,#tip.t_fr-fr c{
-  background:#033!important;
+  background:#033;
 opacity: 0.95;
 }
 
 #tip-o1,#tip-o2 {
-display:none!important;
+display:none;
 }
 
 
 #dialog {
-background-image:url(http://i.imgur.com/xgei7Mh.png)!important;
+background-image:url(http://i.imgur.com/xgei7Mh.png);
 width: 510px;
 height: 317px;
 text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
 }
 
 #dialog .borders {
-background:url(http://i.imgur.com/uD1HtdR.png)!important;
+background:url(http://i.imgur.com/uD1HtdR.png);
 }
 
 #dropmenu{
@@ -575,7 +578,7 @@ text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
 
 /*UMIEJóTNO?CI*/
 #skills,#skills_bar,#skills_title {
-background-image:url(http://i.imgur.com/eeqc0SZ.png)!important;
+background-image:url(http://i.imgur.com/eeqc0SZ.png);
 text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
 }
 
@@ -587,19 +590,19 @@ margin-top:-3px;
 }
 
 .skillbox:not(.bm_edit_mode),.bm_edit_mode .bm_remove_item {
-background-image:url(http://i.imgur.com/tTeMEbh.png)!important;
-background-color:transparent!important;
+background-image:url(http://i.imgur.com/tTeMEbh.png);
+background-color:transparent;
 }
 
 .skillbox B.sk_act, .skillbox a.sk_act {
   position:absolute;
-  background: url(http://i.imgur.com/tTeMEbh.png) no-repeat 0 -132px !important;
+  background: url(http://i.imgur.com/tTeMEbh.png) no-repeat 0 -132px ;
 }
 
 /*KONSOLA*/
 
 #console {
-background-image:url(http://i.imgur.com/a8BkEyw.png)!important;
+background-image:url(http://i.imgur.com/a8BkEyw.png);
 text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
 }
 
@@ -614,13 +617,13 @@ margin-top: -1px;
 /*ZAKóADKA PREMIUM*/
 
 #premiumshop,#premiumshop button,#premiumshop div {
-background-image:url(http://i.imgur.com/aAADNbb.png)!important;
+background-image:url(http://i.imgur.com/aAADNbb.png);
 }
 
 #premiumshop .sl_amount_ps {
-background-image:none!important;
+background-image:none;
 color: white;
-text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black !important;
+text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black ;
 }
 
 .stamina_pay_options li:hover{
@@ -628,8 +631,8 @@ text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black !impor
 }
 
 #goldShop, #goldShop .options div div, #goldShop .sllink:hover, #goldShop .closelink:hover{
-background-image: url(http://i.imgur.com/xI6Twfu.png) !important;
-ttext-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black !important;
+background-image: url(http://i.imgur.com/xI6Twfu.png) ;
+ttext-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black ;
 }
 
 #goldShop .goldBox .bg span.gold{  
@@ -646,33 +649,33 @@ color:white;
 /*SKLEP*/
 
 #shop {
-background-image:url(http://i.imgur.com/D89bbWm.png)!important;
+background-image:url(http://i.imgur.com/D89bbWm.png);
 text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
-color: white!important;
+color: white;
 }
 
 #shop.outfit {
-background-image:url(http://i.imgur.com/FHEO0bw.png)!important;
+background-image:url(http://i.imgur.com/FHEO0bw.png);
 text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
-color: white!important;
+color: white;
 }
 
 #shop_accept,#shop_close {
-background-image:url(http://i.imgur.com/cn4gwoK.png)!important;
+background-image:url(http://i.imgur.com/cn4gwoK.png);
 }
 
 /*DEPOZYT*/
 #depo,#depo-title {
-background-image:url(http://i.imgur.com/78tClWF.png)!important;
+background-image:url(http://i.imgur.com/78tClWF.png);
 text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
 }
 
 #depo button, #depo-gold input {
-background-image:url(http://i.imgur.com/6YFrmy7.png)!important;
+background-image:url(http://i.imgur.com/6YFrmy7.png);
 }
 /*AUKCJE*/
 #ahtitle,#ah_mylist h5,#auctions #ah_filter button,#ah_filter,#ahselect,#auctions button,#ahselect B#b_myah,#auctions .sep,#auctions .itemcont {
-background-image:url(http://i.imgur.com/Ux1kEYa.png)!important;
+background-image:url(http://i.imgur.com/Ux1kEYa.png);
 text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
 }
 
@@ -771,17 +774,17 @@ background-position:0 -247px;
 }
 
 #auctions .ahitem{
-background-image:url(http://i.imgur.com/xuxXhz3.png)!important;
+background-image:url(http://i.imgur.com/xuxXhz3.png);
 }
 /*ALERTY*/
 
 #alert .a1,#alert .a3,#alert button,#dlgwin .w1,#staminashop .a1,#staminashop .a3,#staminashop button {
 color:#FFF;
-background-image:url(http://i.imgur.com/hJclWZD.png)!important;
+background-image:url(http://i.imgur.com/hJclWZD.png);
 }
 
 #alert,#dlgwin,#staminashop {
-background:url(http://i.imgur.com/UEthPJQ.png)!important;
+background:url(http://i.imgur.com/UEthPJQ.png);
 color:#FFF;
 }
 
@@ -792,7 +795,7 @@ color: #FFF;
 /* NOWY POZIOM*/
 
 #abilitypoints {
-background-image:url(http://i.imgur.com/OZqu037.png)!important;
+background-image:url(http://i.imgur.com/OZqu037.png);
 text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
 }
 
@@ -801,21 +804,21 @@ color: white;
 }
 
 #newlvl {
-background-image:url(http://i.imgur.com/qVUIFZu.png)!important;
+background-image:url(http://i.imgur.com/qVUIFZu.png);
 }
 
 .ab1 {
-background:url(http://i.imgur.com/XyewMV9.png)!important;
+background:url(http://i.imgur.com/XyewMV9.png);
 }
 
 .ab5 {
-background:url(http://i.imgur.com/8tXgBjs.png)!important;
+background:url(http://i.imgur.com/8tXgBjs.png);
 }
 
 /*CIEN - tekst*/
 
 #i_hpinfo1{
-background: url(http://i.imgur.com/LfEOGka.png)!important;
+background: url(http://i.imgur.com/LfEOGka.png);
 height: 25px;
 position: absolute;
 top: 45px;
@@ -866,10 +869,10 @@ color: #FFF;
 text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
 }
 #chatTxtContainer{
-padding:6px 22px 5px 8px!important;	
+padding:6px 22px 5px 8px;	
 }
 #lastmsg, {
-    width: 300px !important;
+    width: 300px ;
     text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
 }
 .frbox {
@@ -893,12 +896,12 @@ color: white important!;
 text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
 }
 
-#depo-gold input{color:white !important;}
+#depo-gold input{color:white ;}
 
 /*poprawki*/
 
 #clanbox div.treasury div{
-	background: transparent !important;
+	background: transparent ;
 }
 
 #lehim_button{
@@ -913,12 +916,12 @@ input#addon_search{color: white; font-family: Arial; font-size: 12px;}
 
 #nick{font-weight:normal; text-shadow: -1px 0px #000, 0px 1px #000, 1px 0px #000, 0px -1px #000; margin-top:1px;}
 
-#alert div.mAlertInputContainer input[name="mAlertInput"]{width: 255px; cursor: text; text-align:center; color: white; font-weight: normal!important; border: 0px; padding: 0px; height: 30px; background:url(http://i.imgur.com/LSnWuYx.png) no-repeat;}
+#alert div.mAlertInputContainer input[name="mAlertInput"]{width: 255px; cursor: text; text-align:center; color: white; font-weight: normal; border: 0px; padding: 0px; height: 30px; background:url(http://i.imgur.com/LSnWuYx.png) no-repeat;}
 
 #alert div.mAlertInputContainer div.bLeft,#alert div.mAlertInputContainer div.bRight{display: none;}
 
-#autobattleButton{background:url(http://i.imgur.com/ezymDKr.png)!important!important; border: none; border-radius: 0px; width: 62px; height: 22px; font-size: 0px; line-height:999px;}
+#autobattleButton{background:url(http://i.imgur.com/ezymDKr.png); border: none; border-radius: 0px; width: 62px; height: 22px; font-size: 0px; line-height:999px;}
 
 ul.stamina_pay_options li{
-	margin-bottom: 5px !important;
+	margin-bottom: 5px ;
 }
