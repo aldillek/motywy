@@ -185,13 +185,14 @@ text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
 }
 
 /*CHAT*/
+#chattxt{
+	margin-top:2px;
 #chattxt div{
 	padding-bottom:1px;
 	padding-left:2px;
-	letter-spacing:.2px;
 }
 
-#chatxt .sys_info, #chatxt .sys_red{
+#chattxt .sys_info, #chattxt .sys_red{
 	text-align:center;
 	font-weight: bold;
 }
