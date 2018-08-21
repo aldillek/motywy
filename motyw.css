@@ -606,14 +606,16 @@ text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
 }
 #skillcount {
 color:#FFF;
-margin-left:18px;
+margin-left:-10px;
 margin-top:3px;
 }
-
-.skillbox:not(.bm_edit_mode),.bm_edit_mode .bm_remove_item {
-
-background-color:transparent;
+.skillbox_shadow{
+background:transparent;	
 }
+.skillbox{
+       box-shadow: inset 0px 0px 9px 7px black ;
+}
+
 
 .skillbox B.sk_act, .skillbox a.sk_act {
   position:absolute;
