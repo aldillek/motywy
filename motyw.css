@@ -590,9 +590,9 @@ text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
   background:#021b4b;
 }
 
-/*UMIEJóTNO?CI
-#skills,#skills_bar,#skills_title {
-background-image:url(http://i.imgur.com/eeqc0SZ.png);
+/*UMIEJóTNO?CI*/
+#skills{
+background-image:url(https://i.imgur.com/WjBenjk.png);
 text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
 }
 
@@ -604,15 +604,15 @@ margin-top:-3px;
 }
 
 .skillbox:not(.bm_edit_mode),.bm_edit_mode .bm_remove_item {
-background-image:url(http://i.imgur.com/tTeMEbh.png);
+
 background-color:transparent;
 }
 
 .skillbox B.sk_act, .skillbox a.sk_act {
   position:absolute;
-  background: url(http://i.imgur.com/tTeMEbh.png) no-repeat 0 -132px ;
+ 
 }
-*/
+
 /*KONSOLA*/
 
 #console {
