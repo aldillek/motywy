@@ -596,9 +596,12 @@ background-image:url(https://i.imgur.com/WjBenjk.png);
 text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
 }
 #skills_title{
-	background:transaparent;
+	background:transparent;
 }
-
+.skills_tab_text{
+	text-align:center;
+	background:transparent;
+}
 #skillcount {
 color:#FFF;
 margin-left:-16px;
