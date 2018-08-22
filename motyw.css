@@ -1,3 +1,16 @@
+/* poprawka lootu 22/08/2018r. */
+
+#loots #loots_header_label{
+	display:none;
+}
+
+#loots center{
+	margin-top:40px;
+	margin-left:20px;
+	margin-right:20px;
+}
+
+
 /* Ogólny widok */
 .itemHighlighter { 
 	background-image: url(https://i.imgur.com/VDBQoRS.png); 
