@@ -9,6 +9,18 @@
 	margin-left:20px;
 	margin-right:20px;
 }
+#loots_button{
+	bottom:5px;
+	right:-16px
+}
+#loots_counter{
+	right:102px;
+	bottom:5px;
+}
+#loots_bag{
+	bottom:5px;
+	right: 135px;
+}
 
 
 /* Ogólny widok */
