@@ -1,5 +1,6 @@
 # Motywy do gry Margonem.
-###### Cześć!
+##### Cześć!
 W związku z tym, że teraz są mega problemy z akceptacją dodatków w Margonem, przenoszę go tutaj, poprowadziłem stosowną instrukcję w dodatku z panelu gry. Ona kieruje Was tutaj, niżej kod, który trzeba wklepać w konsolę w grze.
 
-`link`
+`code.js z repozytorium, pozdrawiam`
+
