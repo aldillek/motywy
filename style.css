@@ -500,7 +500,7 @@ background-image:url(http://i.imgur.com/2Jc09LZ.png);
 /*INNE*/
 
 #target {
-background-image:url(http://i.imgur.com/Etbe59x.png);
+background-image:url(https://i.postimg.cc/RFKP3SzF/Etbe59x.png);
 }
 
 .closebut {
@@ -511,7 +511,7 @@ background-image:url(http://i.imgur.com/70nP00s.png);
 background-image:url(http://i.imgur.com/rKzrehO.png);
 }
 #lehim_button, #hieronim_button{
-  display:none!important;a
+  display:none!important;
 }
 
 #sl_shop_banner,#gold_shop_banner,#hieronim_button,#lehim_button {
@@ -618,9 +618,7 @@ background:url(http://i.imgur.com/uD1HtdR.png);
 }
 
 #hmenu {
-  display:flex;
-  justify-content:center;
-  align-items:center;
+  display:block;
   background-color:rgba(0,0,0,0.75)!important ;
   border:7px solid transparent;
   border-image: url(http://i.imgur.com/q8RXj3n.png) 7 7 repeat;
@@ -637,7 +635,7 @@ background:url(http://i.imgur.com/uD1HtdR.png);
 #hmenu BUTTON:hover {
   background-color: rgba(0, 0, 0, 0.9)!important;
   transform: scale(1.1);
-
+}
 /*UMIEJóTNO?CI*/
 #skills{
 background-image:url(https://i.imgur.com/WjBenjk.png);
@@ -943,7 +941,7 @@ text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
 #chatTxtContainer{
 padding:6px 22px 5px 8px;	
 }
-#lastmsg, {
+#lastmsg {
     width: 300px ;
     text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
 }
@@ -986,7 +984,11 @@ text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
 
 input#addon_search{color: white; font-family: Arial; font-size: 12px;}
 
-#nick{font-weight:normal; text-shadow: -1px 0px #000, 0px 1px #000, 1px 0px #000, 0px -1px #000; margin-top:1px;}
+#nick{
+  font-weight:normal; 
+  text-shadow: -1px 0px #000, 0px 1px #000, 1px 0px #000, 0px -1px #000; 
+  margin-top:2px;
+}
 
 #alert div.mAlertInputContainer input[name="mAlertInput"]{width: 255px; cursor: text; text-align:center; color: white; font-weight: normal; border: 0px; padding: 0px; height: 30px; background:url(http://i.imgur.com/LSnWuYx.png) no-repeat;}
 
