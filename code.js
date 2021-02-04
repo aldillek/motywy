@@ -16,10 +16,7 @@ $___skin = new (function () {
 		(function (sD) {
 			showDialog = (d, a) => {
 				r_sd = sD(d, a);
-
-				if (d == 'quests-title.png') {
-					document.querySelector(`#dlgwin .w2`).style.backgroundImage = `url(http://i.imgur.com/NIcemzT.png)`;
-				} else if (d == 'help-title.png') {
+				if (d == 'help-title.png') {
 					document.querySelector(`#dlgwin .w2`).style.backgroundImage = `url(http://i.imgur.com/2tEbIss.png)`;
 				} else if (d == 'Kopiuj przebieg walki') {
 					document.querySelector(`#dlgwin .w2`).style.backgroundImage = `url(http://i.imgur.com/91xh80l.png)`;
@@ -40,54 +37,21 @@ $___skin = new (function () {
 		(style.href = `https://aldill.github.io/motywy/style.css`), (style.rel = `stylesheet`), (style.type = `text/css`);
 		document.getElementsByTagName('head')[0].appendChild(style);
 
-		$('#leorn1,#leorn2').remove();
 		$('#party img').attr('src', 'http://i.imgur.com/abvXEQY.png');
-		$('<div></div>')
-			.attr({
-				id: 'motywstats',
-			})
-			.css({
-				position: 'absolute',
-				height: '20px',
-				width: '75px',
-				display: 'block',
-				top: '74px',
-				left: '170px',
-			})
-			.appendTo('#panel');
+		
+		const statsButton = document.createElement(`div`);
+		statsButton.id = "motywstats";
+		statsButton.append(`#centerbox`);
+		
+		const statsPanel = document.createElement(`div`);
+		statsPanel.id = "motywstatspanel";
+		statsPanel.append(`#panel`);
 
-		$('<div></div>')
-			.attr({
-				id: 'motywstatspanel',
-			})
-			.css({
-				position: 'absolute',
-				height: '474px',
-				width: '264px',
-				display: 'none',
-				top: '64px',
-				'font-size': '13px',
-				color: 'white',
-				'text-align': 'center',
-				left: '520px',
-				'z-index': '900000',
-				background: 'url(https://i.imgur.com/kOiBHu1.png)',
-			})
-			.appendTo('#centerbox');
-		$('<div></div>')
-			.attr({
-				id: 'exhausted',
-			})
-			.css({
-				position: 'absolute',
-				height: '1px',
-				width: '0px',
-				display: 'block',
-				top: '43px',
-				left: '9px',
-				background: 'url(https://i.imgur.com/BKoA0gF.png)',
-			})
-			.appendTo('#panel');
+		const exhaustedBar = document.createElement(`div`);
+		exhaustedBar.id = "exhausted";
+		exhaustedBar.append(`#panel`);
+		
+		
 	};
 	this.Update = function () {
 		/* hero new name with ranges */
@@ -143,7 +107,7 @@ $___skin = new (function () {
     <p> Procent na krytyk: ${hero.crit}%
     <p> Pancerz: ${hero.ac}
     <p> Blok: ${hero.block}
-    <p> Unik: ${hero.evade}
+    <p> Unik: ${hero.evade}(${20*hero.evade/hero.lvl}%) 
     <p> Leczenie turowe: ${hero.heal}
     <p> Mana: ${hero.mana}
     <p> Przywracanie many: ${hero.managain}
