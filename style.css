@@ -613,7 +613,12 @@ color: #AAA ;
 	color: #fff;
 }
 #party {
-	background-image: url(http://i.imgur.com/UzHxdIS.png);
+	background-image: none!important;
+	background: #000000c2;
+}
+
+#party img {
+	display:none;
 }
 /* clan box deleted */
 
@@ -1102,6 +1107,7 @@ color: #AAA ;
 
 #botloc,
 #msg {
+	color:white;
 	text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black;
 }
 
